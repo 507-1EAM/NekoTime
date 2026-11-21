@@ -12,5 +12,5 @@ Run:
 
 **OR** Download binary from release page
 
-[!WARNING]
-I haven’t tested this on systems other than Linux. I cannot guarantee that it will work.
+> [!WARNING]
+> I haven’t tested this on systems other than Linux. I cannot guarantee that it will work.
