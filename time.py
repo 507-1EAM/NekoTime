@@ -1,11 +1,9 @@
 from tkinter import *
-from tkinter import ttk
-from datetime import datetime, time
+from datetime import datetime
 
 root = Tk()
 root.title("NekoTime")
 root.resizable(False, False)
-nekotime = ttk.Frame(root, padding=10)
 canvas = Canvas(bg="black", width=250, height=130, highlightthickness=0)
 canvas.pack(anchor=CENTER, expand=1)
 zero = PhotoImage(file="digits/0.gif")
